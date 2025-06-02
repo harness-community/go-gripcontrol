@@ -1,10 +1,10 @@
-module github.com/fanout/go-gripcontrol
+module github.com/harness-community/go-gripcontrol
 
 go 1.20
 
 require (
-	github.com/fanout/go-pubcontrol v1.2.0
-	github.com/golang-jwt/jwt v3.2.2+incompatible
+	github.com/golang-jwt/jwt/v4 v4.5.2
+	github.com/harness-community/go-pubcontrol v1.2.1
 	github.com/stretchr/testify v1.8.4
 )
 

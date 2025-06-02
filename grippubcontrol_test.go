@@ -8,7 +8,7 @@
 package gripcontrol
 
 import (
-	"github.com/fanout/go-pubcontrol"
+	"github.com/harness-community/go-pubcontrol"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

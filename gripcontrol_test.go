@@ -10,7 +10,7 @@ package gripcontrol
 import (
 	"encoding/base64"
 	"encoding/json"
-	"github.com/golang-jwt/jwt"
+	"github.com/golang-jwt/jwt/v4"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"
