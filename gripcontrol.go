@@ -11,7 +11,7 @@ import "fmt"
 import "unicode/utf8"
 import "encoding/json"
 import "strings"
-import "github.com/golang-jwt/jwt"
+import "github.com/golang-jwt/jwt/v4"
 import "net/url"
 import "encoding/base64"
 
